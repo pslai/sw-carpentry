@@ -1,6 +1,4 @@
-def add_three(a,b,c):
-	return a+b+c
-
+from add_three import add_three
 def add_three(a,b,c):
 	return a+b+c
 
